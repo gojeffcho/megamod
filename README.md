@@ -1,4 +1,8 @@
-== Prerequisites: ==
+## Introduction
+
+This repo and its Wiki contain in- and out-of-realm information for the Megachannel Modded Minecraft Realm (Megamod).  This realm is whitelist-enforced, meaning no player may join without being added to the whitelist.  If you are unable to connect, please contact Jeff.
+
+## Prerequisites:
 
 - If you haven't already, download the 12.2 vanilla launcher by going into your Minecraft launcher, then "Installations" at the top, and "(+) New"
 
@@ -7,7 +11,7 @@
 - Hit "Play" on the 1.12.2 release you just installed - it must be run at least once in order to install things properly later on
 
 
-== Instructions: ==
+## Instructions:
 
 - Go to http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html and download the `Installer` file under `Download Recommended`.
 
@@ -28,7 +32,7 @@
 - Hit "Play" on the forge launcher
 
 
-== Mods List: ==
+## Mods List: 
 
 https://www.curseforge.com/minecraft/mc-mods/baubles
 https://www.curseforge.com/minecraft/mc-mods/botania
